@@ -1,5 +1,5 @@
 # Bleeding edge Django
-django==1.7.4
+https://www.djangoproject.com/download/1.8a1/tarball/
 
 # Configuration
 django-configurations==0.8
